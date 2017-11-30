@@ -1,0 +1,9 @@
+Jakarta, Bandung, 17000
+Jakarta, Surabaya, 25000
+Jakarta, Jakarta, 10000
+Bandung, Bandung, 10000
+Bandung, Jakarta, 17000
+Bandung, Surabaya, 20000
+Surabaya, Bandung, 20000
+Surabaya, Jakarta, 25000
+Surabaya, Surabaya, 10000
